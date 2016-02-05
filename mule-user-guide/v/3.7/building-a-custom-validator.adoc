@@ -1,4 +1,4 @@
-= Buildng a Custom Validator
+= Building a Custom Validator
 :keywords: validate, validations, filter, if, assert, exception, confirm
 
 If you want to perform complex validation logic, or reuse some code you already have on a separate JAR file, then the link:/mule-user-guide/v/3.7/validations-module#is-true-and-is-false-fallback-validators[`is-true` and `is-false` fallback validators] might not be the most convenient solution for you. You might then want to build your own validator.
